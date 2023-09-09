@@ -1,0 +1,67 @@
+.container1 {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    background-image:url(emi.jpg) ;
+    background-size: cover;
+    font-family: Emirates-Bold sans-serif;
+    margin-top: 0px !important;
+    padding-top: 0px !important;
+    margin: 0 auto;
+    
+
+    
+}
+.container2{
+    margin-top: 50px;
+    font-family: Emirates-Bold sans-serif;
+
+}
+
+.container{
+    
+    
+    font-family: Emirates-Bold sans-serif;
+    
+
+}
+.cabin{
+    text-align: center;
+    margin-top: 50px;
+    font-family: Emirates-Bold sans-serif;
+
+}
+
+.round {
+    border-radius: 50%;
+    margin-top: 50px;
+    align-items: center;
+    font-family: Emirates-Bold sans-serif;
+
+}
+
+.logo{
+    position: absolute;
+    left: 0;
+    width: 90px;
+    height: 126px;
+    background-color: red;
+    top: 0px;
+    z-index: 2;
+}
+.container3{
+    text-align: center;
+    font-family: Emirates-Bold sans-serif;
+
+    
+}
+.container4{
+    text-align: center;
+    font-family: Emirates-Bold sans-serif;
+
+}
+.container5{
+  background-color: gray;
+  font-family: Emirates-Bold sans-serif;
+  color: white;
+}
